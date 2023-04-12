@@ -37,37 +37,37 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 ![Image.](/assets/images/The Second Prince Idea.png) 
 
 ### Character First Concept
-(/assets/images/CharacterConcept_1_FINAL.png) 
+![Image.](/assets/images/CharacterConcept_1_FINAL.png) 
 
 ### Character Real Concept Art
-(/assets/images/Character_Concept_APose.png) 
+![Image.](/assets/images/Character_Concept_APose.png) 
 
 ### House Architecture Concept Art
-(/assets/images/House Concept_1.png)
+![Image.](/assets/images/HouseConcept_1.png)
 
 ### Elven Ruins Concept Art
-(/assets/images/RuinsConcept_1.png)
+![Image.](/assets/images/RuinsConcept_1.png)
 
 ## Models 
 
 ### Character Model March
-(/assets/images/CharacterMarch6Delivery_1.png) 
-(/assets/images/CharacterMarch6Delivery_2.png) 
+![Image.](/assets/images/CharacterMarch6Delivery_1.png) 
+![Image.](/assets/images/CharacterMarch6Delivery_2.png) 
 
 ### City Walls Model March
-(/assets/images/CityWalls.png) 
+![Image.](/assets/images/CityWalls.png) 
 
 ### Gazebo Model March
-(/assets/images/Gazebo.png) 
+![Image.](/assets/images/Gazebo.png) 
 
 ### Column Model March
-(/assets/images/ColumnMarch6Delivery.png) 
+![Image.](/assets/images/ColumnMarch6Delivery.png) 
 
 ### Ruins 1 Model March
-(/assets/images/ThroneRoomIntact1.png)
+![Image.](/assets/images/ThroneRoomIntact1.png)
 
 ### Throne Model March
-(/assets/images/ThroneIntact1.png) 
+![Image.](/assets/images/ThroneIntact1.png) 
 
 ## Texturing 
 
