@@ -1,4 +1,4 @@
-# ElgadorRPG_GDD
+# **ElgadorRPG_GDD**
 This is the website for my RPG game based on the universe I've been working on since 2011. My Concordia Computation Arts Application portfolio from 2019 was garnished with works, concept arts, maps, illustrations, etc. from this world I've been creating, but now I have added more to the library.  
 
 ## March 22nd 2023 250 words descriptive text:
@@ -32,9 +32,11 @@ https://en.wikipedia.org/wiki/The_Hobbit
 
 Tolkien created a whole new genre of stories with this work and set the ground for what would become the basis of any medieval fantasy story. He created the - now basic - races of the Humans, the Elves, the Dwarves, the Orcs, and so on and contributed to the basic stereotypes for what these races are supposed to look like, their personalities, their cultures, and more. The world building is so vast that the first The Lord of the Rings book The Fellowship of the Ring starts with more than 100 pages of description of the Hobbit race only. It is a major reference to anyone writing or creating in the Medieval Fantasy genre and will forever stay the most iconic work of that genre, which engendered the rise of many new ways of experiencing the genres as the technology developed, generating tabletop games, movies, TV series, and recently videogames. 
 
+# January to March
+
 ## Concept Art 
 ### Moodboard/Ambiance Concept
-![Image.](/assets/images/The Second Prince Idea.png) 
+![Image.](/assets/images/TheSecondPrinceIdea.png) 
 
 ### Character First Concept
 ![Image.](/assets/images/CharacterConcept_1_FINAL.png) 
@@ -70,10 +72,28 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 ![Image.](/assets/images/ThroneIntact1.png) 
 
 ## Texturing 
+### Trees Models with Textures March
+![Image.](/assets/images/ThroneIntact1.png) 
 
-## Mise En Scene 
+
+### Rocks Models with Textures March
+![Image.](/assets/images/RocksBlender.png)
+
+## Mise En Scene
+### City Walls + Basic GKC UI and Character/Weapon
+![Image.](/assets/images/TreesBlender.png)
+
+
+# April - Mid April
+
+## Texturing 
+
+## Mise En Scene
+### City Walls In-Game screenshot
+![Image.](/assets/images/City.png)
 
 ## Music 
+
 
 ## 3D Assets Showcase Video 
 
