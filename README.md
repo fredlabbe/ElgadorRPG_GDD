@@ -33,8 +33,41 @@ https://en.wikipedia.org/wiki/The_Hobbit
 Tolkien created a whole new genre of stories with this work and set the ground for what would become the basis of any medieval fantasy story. He created the - now basic - races of the Humans, the Elves, the Dwarves, the Orcs, and so on and contributed to the basic stereotypes for what these races are supposed to look like, their personalities, their cultures, and more. The world building is so vast that the first The Lord of the Rings book The Fellowship of the Ring starts with more than 100 pages of description of the Hobbit race only. It is a major reference to anyone writing or creating in the Medieval Fantasy genre and will forever stay the most iconic work of that genre, which engendered the rise of many new ways of experiencing the genres as the technology developed, generating tabletop games, movies, TV series, and recently videogames. 
 
 ## Concept Art 
+### Moodboard/Ambiance Concept
+/assets/images/The Second Prince Idea.png 
+
+### Character First Concept
+/assets/images/CharacterConcept_1_FINAL.png 
+
+### Character Real Concept Art
+/assets/images/Character_Concept_APose.png 
+
+### House Architecture Concept Art
+/assets/images/House Concept_1.png
+
+### Elven Ruins Concept Art
+/assets/images/RuinsConcept_1.png
 
 ## Models 
+
+### Character Model March
+/assets/images/CharacterMarch6Delivery_1.png 
+/assets/images/CharacterMarch6Delivery_2.png 
+
+### City Walls Model March
+/assets/images/CityWalls.png 
+
+### Gazebo Model March
+/assets/images/Gazebo.png 
+
+### Column Model March
+/assets/images/ColumnMarch6Delivery.png 
+
+### Ruins 1 Model March
+/assets/images/ThroneRoomIntact1.png 
+
+### Throne Model March
+/assets/images/ThroneIntact1.png 
 
 ## Texturing 
 
