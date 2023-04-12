@@ -5,7 +5,7 @@ This is the website for my RPG game based on the universe I've been working on s
 
 This project examines the glorification of imperialism through a metaphorical game set in a fantasy medieval world. Elven ruins are explored and symbolize ancient empires (i.e. Roman, Chinese, English empires and many more) that are often glorified or looked at with mysticism often without taking into account their impact or treatment of local populations. Players will reflect on their own experience with real ancient empires while living through the glorification and mysticism of ancient Elven empires in the game.
 This project positions itself as a Role-Playing Game based in a medieval fantasy setting where the player explores a small world inhabited by humans that is sparkled with foregone Elven ruins. These ruins are occupied by bandits which the player will have to clear the site of as a hired adventurer paid by human scholars which investigate the mysticism of these ancient Elven civilizations. I have been writing a book situated in this world since the past 12 years, and every university project I partake in tries to situate itself in this world.
-The game is made in Unity using the Game Kit Controller https://assetstore.unity.com/packages/templates/systems/game-kit-controller-40995, animations have been downloaded from Mixamo https://www.mixamo.com/#/, mostly 3D modeled by me and textured in the Susbtance Painter Software or inside Blender itself.
+**The game is made in Unity using the Game Kit Controller https://assetstore.unity.com/packages/templates/systems/game-kit-controller-40995**, animations have been downloaded from Mixamo https://www.mixamo.com/#/, mostly 3D modeled by me and textured in the Susbtance Painter Software or inside Blender itself.
 I designed and modeled the whole environment, the trees, plants, rocks and buildings myself, along with the main character played in third person. Enemies and NPCs are either downloaded or bought and credited. The music is produced completely by myself, but the in-game sounds are taken from Splice. 
 
 
@@ -65,3 +65,5 @@ Galeran the Peasant (the peasant farm character)'s model was bought from CG Trad
 Theomir's book was taken from the Unity Assets Store. 
 
 The weapons were taken either from GKC or Free Medieval Weapons assets on Unity Assets Store.
+
+In-game sounds taken from the GKC or from Splice.
