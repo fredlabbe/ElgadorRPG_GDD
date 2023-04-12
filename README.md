@@ -74,7 +74,7 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 ## Texturing 
 
 ### Trees Models with Textures March
-![Image.](/assets/images/ThroneIntact1.png) 
+![Image.](/assets/images/TreesBlender.png) 
 
 ### Rocks Models with Textures March
 ![Image.](/assets/images/RocksBlender.png)
@@ -82,7 +82,7 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 ## Mise En Scene
 
 ### City Walls + Basic GKC UI and Character/Weapon
-![Image.](/assets/images/TreesBlender.png)
+![Image.](/assets/images/GameScreenshotMarch10.png)
 
 
 # April 1st
