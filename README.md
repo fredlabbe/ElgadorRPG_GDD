@@ -72,25 +72,49 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 ![Image.](/assets/images/ThroneIntact1.png) 
 
 ## Texturing 
+
 ### Trees Models with Textures March
 ![Image.](/assets/images/ThroneIntact1.png) 
-
 
 ### Rocks Models with Textures March
 ![Image.](/assets/images/RocksBlender.png)
 
 ## Mise En Scene
+
 ### City Walls + Basic GKC UI and Character/Weapon
 ![Image.](/assets/images/TreesBlender.png)
 
 
-# April - Mid April
+# April 1st
 
 ## Texturing 
 
 ## Mise En Scene
+
 ### City Walls In-Game screenshot
 ![Image.](/assets/images/City.png)
+
+### Beach In-Game screenshot
+![Image.](/assets/images/Beach.png)
+
+### Map In-Game screenshot
+![Image.](/assets/images/Map.png)
+
+### Woods In-Game screenshot
+![Image.](/assets/images/Woods.png)
+
+### Rock Forest In-Game screenshot
+![Image.](/assets/images/RocksForest.png) 
+
+### First Ruins In-Game screenshot
+![Image.](/assets/images/Ruins1_inGame.png)
+
+
+# Mid January Cart 411 Project Class Delivery (The Game)
+
+## Texturing 
+
+## Mise En Scene
 
 ## Music 
 
