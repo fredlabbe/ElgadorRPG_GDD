@@ -34,7 +34,7 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 
 ## Concept Art 
 ### Moodboard/Ambiance Concept
-(/assets/images/The Second Prince Idea.png) 
+![Image.](/assets/images/The Second Prince Idea.png) 
 
 ### Character First Concept
 (/assets/images/CharacterConcept_1_FINAL.png) 
