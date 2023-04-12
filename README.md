@@ -1,5 +1,5 @@
 # ElgadorRPG_GDD
-This is the website for my RPG game based on the universe I've been working on since 2011.
+This is the website for my RPG game based on the universe I've been working on since 2011. My Concordia Computation Arts Application portfolio from 2019 was garnished with works, concept arts, maps, illustrations, etc. from this world I've been creating, but now I have added more to the library.  
 
 ## March 22nd 2023 250 words descriptive text:
 
