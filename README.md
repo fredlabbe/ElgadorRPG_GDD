@@ -1,6 +1,8 @@
 # **ElgadorRPG_GDD**
 This is the website for my RPG game based on the universe I've been working on since 2011. My Concordia Computation Arts Application portfolio from 2019 was garnished with works, concept arts, maps, illustrations, etc. from this world I've been creating, but now I have added more to the library.  
 
+Itch.io game keyed link: https://fredlabbe.itch.io/the-forgotten-prince/download/FeoiQZTJV3IOZdCTHqeUV5X0dZRXApiPC5ki5WQH  
+
 ## March 22nd 2023 250 words descriptive text:
 
 This project examines the glorification of imperialism through a metaphorical game set in a fantasy medieval world. Elven ruins are explored and symbolize ancient empires (i.e. Roman, Chinese, English empires and many more) that are often glorified or looked at with mysticism often without taking into account their impact or treatment of local populations. Players will reflect on their own experience with real ancient empires while living through the glorification and mysticism of ancient Elven empires in the game.
