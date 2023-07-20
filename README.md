@@ -97,7 +97,7 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 ![Image.](/assets/images/City.png)
 
 ### Beach In-Game screenshot
-![Image.](/assets/images/Beach.png)
+![Image.](/assets/images/Beach.jpg)
 
 ### Map In-Game screenshot
 ![Image.](/assets/images/Map.png)
