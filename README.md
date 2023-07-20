@@ -106,13 +106,13 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 ![Image.](/assets/images/Woods.JPG)
 
 ### Rock Forest In-Game screenshot
-![Image.](/assets/images/RocksForest.png) 
+![Image.](/assets/images/RocksForest.JPG) 
 
 ### First Ruins In-Game screenshot
-![Image.](/assets/images/Ruins1_inGame.png)
+![Image.](/assets/images/Ruins1_inGame.JPG)
 
 
-# Mid January Cart 411 Project Class Delivery (The Game)
+# Mid April Cart 411 Project Class Delivery (The Game)
 
 ## Texturing 
 
