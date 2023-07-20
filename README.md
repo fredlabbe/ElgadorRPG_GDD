@@ -97,13 +97,13 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 ![Image.](/assets/images/City.png)
 
 ### Beach In-Game screenshot
-![Image.](/assets/images/Beach.jpg)
+![Image.](/assets/images/Beach.JPG)
 
 ### Map In-Game screenshot
-![Image.](/assets/images/Map.png)
+![Image.](/assets/images/Map.JPG)
 
 ### Woods In-Game screenshot
-![Image.](/assets/images/Woods.png)
+![Image.](/assets/images/Woods.JPG)
 
 ### Rock Forest In-Game screenshot
 ![Image.](/assets/images/RocksForest.png) 
