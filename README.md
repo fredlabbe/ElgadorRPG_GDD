@@ -111,11 +111,11 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 ![Image.](/assets/images/Ruins1_inGame.JPG) 
 
 ### Gazebo
-![Image.](/assets/images/Gazebo_1.PNG) 
-![Image.](/assets/images/Gazebo_1InGAME.PNG) 
+![Image.](/assets/images/Gazebo_1.png) 
+![Image.](/assets/images/Gazebo_1InGAME.png) 
 
-![Image.](/assets/images/Gazebo_2.PNG) 
-![Image.](/assets/images/Gazebo_2InGAME.PNG)
+![Image.](/assets/images/Gazebo_2.png) 
+![Image.](/assets/images/Gazebo_2InGAME.png)
 
 
 # Mid April Cart 411 Project Class Delivery (The Game)
