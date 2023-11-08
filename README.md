@@ -82,7 +82,6 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 ![Image.](/assets/images/RocksBlender.png)
 
 ## Mise En Scene
-
 ### City Walls + Basic GKC UI and Character/Weapon
 ![Image.](/assets/images/GameScreenshotMarch10.png)
 
@@ -94,7 +93,7 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 ## Mise En Scene
 
 ### City Walls In-Game screenshot
-![Image.](/assets/images/City.png)
+![Image.](/assets/images/City.png) 
 
 ### Beach In-Game screenshot
 ![Image.](/assets/images/Beach.JPG)
@@ -109,7 +108,14 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 ![Image.](/assets/images/RocksForest.JPG) 
 
 ### First Ruins In-Game screenshot
-![Image.](/assets/images/Ruins1_inGame.JPG)
+![Image.](/assets/images/Ruins1_inGame.JPG) 
+
+### Gazebo
+![Image.](/assets/images/Gazebo_1.PNG) 
+![Image.](/assets/images/Gazebo_1InGAME.PNG) 
+
+![Image.](/assets/images/Gazebo_2.PNG) 
+![Image.](/assets/images/Gazebo_2InGAME.PNG)
 
 
 # Mid April Cart 411 Project Class Delivery (The Game)
@@ -117,7 +123,11 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 ## Texturing 
 
 ## Mise En Scene
-
+![Image.](/assets/images/CityWalls.png)  
+![Image.](/assets/images/BridgeFarm.png) 
+![Image.](/assets/images/Ruins1.png)  
+![Image.](/assets/images/Ruins2.PNG) 
+![Image.](/assets/images/Ruins3.PNG)
 ## Music 
 
 
