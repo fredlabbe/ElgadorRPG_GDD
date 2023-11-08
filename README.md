@@ -123,11 +123,10 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 ## Texturing 
 
 ## Mise En Scene
-![Image.](/assets/images/CityWalls.png)  
-![Image.](/assets/images/BridgeFarm.png) 
-![Image.](/assets/images/Ruins1.png)  
-![Image.](/assets/images/Ruins2.PNG) 
-![Image.](/assets/images/Ruins3.PNG)
+![Image.](/assets/images/BridgeFarm.PNG) 
+![Image.](/assets/images/Ruins1.PNG)  
+![Image.](/assets/images/Ruins 2.PNG) 
+![Image.](/assets/images/Ruins 3.PNG)
 ## Music 
 
 
