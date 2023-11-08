@@ -134,7 +134,11 @@ Tolkien created a whole new genre of stories with this work and set the ground f
 
 ## Music 
 This is the music piece I completely made myself in FL Studio, since I am a music producer. The instrument VSTs are taken from LABS Librairies, and the drums are from VSTs from LABS and samples from Splice. This is inspired by the original pieces I made for that universe back in Secondary 2 in Quebecois High School. 
-https://github.com/fredlabbe/ElgadorRPG_GDD/blob/main/assets/MainTheme_v1.mp4
+
+
+https://github.com/fredlabbe/ElgadorRPG_GDD/assets/47671987/b147eda2-989f-487a-a691-73772c9373e4
+
+
 
 The rest of the sound effects either came from GKC or from Splice.
 
